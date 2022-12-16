@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Summer Sun Ice Cream Pack",
+    "pieces": 5,
+    "minutes": 15,
+    "salary": 12.0,
+    "is_fav": false,
+    "salary_offer": 18.0
+  },
+  {
+    "title": "Ice Cream Pack",
+    "pieces": 10,
+    "minutes": 20,
+    "salary": 40.0,
+    "is_fav": true,
+    "salary_offer": 60.0
+  }
+]
